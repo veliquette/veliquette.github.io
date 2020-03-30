@@ -21,9 +21,11 @@ body{
 }
 
 h1 {
-font-family: Pacifico, cursive;  
+  font-family: SourceSansPro-Black;
   font-size: 40px;
 }
+
+
 .text-muted {
   color: #999;
 }
@@ -55,7 +57,7 @@ font-family: Pacifico, cursive;
 }
 
 #social-icons {
-  font-size: 28px;
+  font-size: 24px;
 }
 
 ul {
